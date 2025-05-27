@@ -5,14 +5,18 @@ My projects showcasing data analysis and use of machine learning algorithms.
 
 _Feb 2025 - May 2025_
 
-Optimized continuous manufacturing (CM) processes to improve throughput and product quality in pharmaceutical production. Using a Pyomo-based optimization model with IPOPT, I successfully increased throughput by 12% while keeping blend potency within ±10% of the target. Focused on optimizing screw speeds and mass flow, with PD1, PD2, and PD4 handling 86% of total flow, this work resulted in significant reductions in production time and waste. The optimization also enhanced resource utilization and energy efficiency, providing a scalable solution adaptable to changing production needs.
+
+Optimized continuous manufacturing (CM) processes to improve throughput and product quality in pharmaceutical production. Using a Pyomo-based optimization model with IPOPT, I successfully increased throughput by 12% while keeping blend potency within ±10% of the target. Focused on optimizing screw speeds and mass flow, with PD1, PD2, and PD4 handling 86% of total flow, this work resulted in significant reductions in production time and waste. The optimization also enhanced resource utilization and energy efficiency, providing a scalable solution adaptable to changing production needs. Optimization is ~3/4 of the way down on page 38, but you can read through the rest for the imports, data info, data transformation, etc.
+
 Key Achievements:
 * Increased throughput by 12%, maintaining blend potency within target range
 * Improved mass flow efficiency, with 86% of the flow controlled by three feeders
 * Reduced production time and waste, while improving resource utilization and energy efficiency
 * Enhanced scalability and flexibility for adapting to dynamic production needs
 * Ensured regulatory compliance with optimized processes, minimizing rework and product rejections
+  
 This project helped drive cost savings, improve product consistency, and provided long-term benefits in scaling manufacturing operations efficiently.
+
 More info about the dataset from the 2024 INFORMS Data-Driven Research Challenge: https://pubsonline.informs.org/doi/10.1287/msom.2024.0860
 
 **Game Recommendations Analysis**
