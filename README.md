@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# Data Analysis Projects
 My projects showcasing data analysis and use of machine learning algorithms.
 
 **Continuous Manufacturing Mixing Process Optimization** 
