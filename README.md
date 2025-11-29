@@ -1,6 +1,14 @@
 # Data Analysis Projects
 My projects showcasing data analysis and use of machine learning algorithms.
 
+**Iris Analysis**
+_November 2025 - December 2025_
+Examined the Iris dataset (Fisher) by analyzing the column distributions. Did ordinary least squares regression to predict the flower, performed principal component analysis (PCA) on the input columns, found correlation between sepal and petal measurements, and identified outliers.
+
+**Percent Body Fat Analysis**
+_November 2025 - December 2025_
+Examined the UCI Body Fat dataset with an exploratory data analysis on columns, their distributions and correlation. Selected 3 charts that depicted interesting relationships between body measurements and percent of body fat. Used 3 Sklearn regression models, Passive Aggressive Regressor, Huber Regressor, and RANSAC Regressor to plot Target vs. Predictions and find L2 and L1 Losses. Dived deeper into models using 5-fold cross-validation and standardization before ultimately picking RANSAC as the best of the three models for this dataset.
+
 **Continuous Manufacturing Mixing Process Optimization** 
 
 _Feb 2025 - May 2025_
